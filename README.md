@@ -1,3 +1,3 @@
 # cpp-basit-otus
 
-Some changes from main
+Some changes from main after merge
